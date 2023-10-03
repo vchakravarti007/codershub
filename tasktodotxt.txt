@@ -1,0 +1,6 @@
+Create food delivery application
+1.Navbar
+2.Homepage
+3.Menu
+4.Login/Signup Page
+5.About Us
